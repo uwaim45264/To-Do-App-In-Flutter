@@ -1,16 +1,61 @@
-# to_do_app
+# ✅ To-Do App in Flutter
 
-A new Flutter project.
+A clean, simple, and responsive **To-Do List Application** built using **Flutter**. Easily manage tasks, mark them as completed, and stay productive throughout your day!
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue?style=flat-square&logo=flutter)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-success?style=flat-square)
+![License](https://img.shields.io/github/license/uwaim45264/To-Do-App-In-Flutter?style=flat-square)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📲 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📝 Add, update, and delete tasks
+- ✅ Mark tasks as completed
+- 📅 Organize tasks by date/time
+- 🌙 Light and dark theme support
+- 📦 Local storage using `shared_preferences`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Android Studio or VS Code
+- Dart plugin enabled
+
+### Installation
+
+```bash
+git clone https://github.com/uwaim45264/To-Do-App-In-Flutter.git
+cd To-Do-App-In-Flutter
+flutter pub get
+flutter run
+```
+
+## 📦 Dependencies
+flutter
+
+shared_preferences
+
+provider or get (depending on your state management choice)
+
+## ✨ Customization Ideas
+Add categories or tags for tasks
+
+Implement notification reminders
+
+Add cloud sync with Firebase
+
+Integrate calendar view
+
+## 🙌 Contributing
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+Muhammad Uwaim Qureshi
